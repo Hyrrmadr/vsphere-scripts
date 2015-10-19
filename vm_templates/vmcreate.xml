@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+ <Virtual-Machines>
+   <Virtual-Machine>
+      <Name>HOSTNAME</Name>
+      <Host>esxi1</Host>
+      <Datacenter>cluster</Datacenter>
+      <Guest-Id>debian6_64Guest</Guest-Id>
+      <Datastore>san1</Datastore>
+      <Disksize>DISKSIZE</Disksize>
+      <Memory>RAMSIZE</Memory>
+      <Number-of-Processor>PROCNBR</Number-of-Processor>
+      <Nic-Network>switch1</Nic-Network>
+      <Nic-Poweron>1</Nic-Poweron>
+   </Virtual-Machine>
+ </Virtual-Machines>

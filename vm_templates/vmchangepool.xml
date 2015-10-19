@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+ <Reconfigure-Virtual-Machine>
+  <Name>HOSTNAME</Name>
+  <Change-Pool>
+   <Name>Hosting</Name>
+  </Change-Pool>
+ </Reconfigure-Virtual-Machine>
