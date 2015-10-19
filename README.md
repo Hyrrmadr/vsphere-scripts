@@ -10,6 +10,10 @@ The perl scripts (in the *perl/* directory) are based on **VMware, Inc.** script
 
 The modifications and the rest of the scripts were made by *Louis Brunner*, licensed under MIT license.
 
+Configuration
+--------------
+
+You must first configure your vSphere environment by editing the *vm_conf.sh* and replacing the default values with the correct ones adapted to your installation.
 
 Usage
 -------------
